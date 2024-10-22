@@ -1,3 +1,5 @@
+#Turtle ბიბლიოთეკის დახმარებით დახატეთ ფასანაურული ხინკალი
+
 from turtle import *
 #we want to paint  fasanauruli khinkali
 speed(80)

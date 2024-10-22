@@ -1,3 +1,5 @@
+#დახაზეთ სასახლე პითონში turtle ის გამოყენებით თქვენ როგორც წარმოგიდგენიათ ისეთი
+
 from turtle import *
 # we want to paint palace
 speed(100)

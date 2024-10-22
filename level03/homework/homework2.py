@@ -1,3 +1,5 @@
+ # შექმენით რამდენიმე ცვლადი სადაც შეინახავთ თქვენს შესახებ ინფორმაციას
+
 name = "saba"
 
 surname = "rusieshvili"
@@ -6,8 +8,13 @@ age = 20
 
 height = 179.0
 
-profession = "actor_and_voiceactor"
+profession = "msaxiobi"
 
-hobby = ("drawing")
+hobby = "xatva"
 
-print(name, surname, age, height,  profession, hobby)
+print("chemi saxeli " + name)
+print("chemi gvari " + surname)
+print("asaki " , age)
+print("simagle " , height )
+print("profesia " + profession)
+print("chemi hobi " + hobby )
