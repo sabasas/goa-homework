@@ -10,7 +10,7 @@ while shopping:
         num1 = input("რა დავამატო?: ")
         shopping_list.append(num1)
 
-    elif num == "წაშლა:":
+    elif num == "წაშლა":
         num1 = input("რა წავშალო?: ")
         shopping_list.remove(num1)       
 
@@ -19,4 +19,3 @@ while shopping:
         for num1 in shopping_list:
             print(num1)
         shopping = False
-        
