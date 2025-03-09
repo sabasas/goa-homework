@@ -1,0 +1,8 @@
+/*  შექმენით ერთი div, რომელსაც მიაქციეთ 30px padding, 50px margin, 5px საზღვარი.*/
+#div1{
+    padding: 30px;
+    margin: 50px;
+    border: 5px solid black;
+    background-color: lightblue;
+    text-align: center;
+}

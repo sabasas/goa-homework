@@ -1,0 +1,8 @@
+/* შექმენით div, რომლის შიგნით იყოს ტექსტი და ემატება 40px padding, 30px margin და 4px საზღვარი. */
+.text-div {
+    padding: 40px;          
+    margin: 30px;           
+    border: 4px solid black; 
+    background-color: lightyellow; 
+    text-align: center;     
+}

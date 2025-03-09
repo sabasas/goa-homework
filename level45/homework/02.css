@@ -1,0 +1,15 @@
+/*შექმენით ორი div, პირველი div-ში მიაქციეთ margin: 50px, მეორე div-ში margin: 10px.*/
+
+.first-div{
+    margin: 50px;
+    background-color: blue;
+    padding: 20px;
+    text-align: center;
+}
+
+.second-div{
+    margin: 10px;
+    background-color: red;
+    padding: 20px;
+    text-align: center;
+}

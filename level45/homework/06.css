@@ -1,0 +1,8 @@
+/* შექმენით div, რომელსაც მიაქციეთ 15px padding, 10px margin და 2px საზღვარი.*/
+.d1{
+    padding: 15px;
+    margin: 20px;
+    border: 2px solid violet;
+    background-color: rgb(32, 184, 176);
+    text-align: center;
+}
