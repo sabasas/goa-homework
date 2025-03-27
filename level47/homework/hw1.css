@@ -1,0 +1,33 @@
+/* კონტეინერი, რომელიც აწყობს ჩვენს ბადეს */
+.grid-container {
+display: grid; /* იყენებს CSS Grid განლაგებას */
+grid-template-columns: repeat(3, 1fr); /* ქმნის 3 სვეტს თანაბარი ზომით */
+grid-template-rows: repeat(2, 1fr); /* ქმნის 2 რიგს თანაბარი ზომით */
+gap: 20px; /* სივრცე ელემენტებს შორის */
+max-width: 900px; /* მაქსიმალური სიგანე */
+margin: 50px auto; /* ცენტრირება გვერდზე, ზემოთ და ქვემოთ 50px დაშორებით */
+}
+                                                    
+/* საერთო სტილი ყველა მართკუთხედისთვის */
+.box {
+display: flex; /* იყენებს Flexbox განლაგებას */
+justify-content: center; /* ჰორიზონტალურად ცენტრში განთავსება */
+align-items: center; /* ვერტიკალურად ცენტრში განთავსება */
+height: 150px; /* სიმაღლე */
+border-radius: 20px; /* მომრგვალებული კუთხეები */
+font-size: 32px; /* ტექსტის ზომა */
+font-weight: bold; /* გამუქებული ტექსტი */
+font-family: Arial, sans-serif; /* შრიფტი */
+}
+                                                    
+/* წითელი მართკუთხედების სტილი */
+.red-box {
+border: 3px solid red; /* წითელი საზღვარი */
+color: red; /* წითელი ტექსტი */
+}
+                                                    
+/* ლურჯი მართკუთხედების სტილი */
+.blue-box {
+border: 3px solid blue; /* ლურჯი საზღვარი */
+color: blue; /* ლურჯი ტექსტი */
+}
