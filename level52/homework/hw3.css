@@ -1,0 +1,13 @@
+.d1{
+    height: 400px;
+    width: 400px;
+    background-color: green;
+    position: sticky;
+    top: 100px;
+    left: 50px;
+}
+
+body{
+    height: 200vh;
+    
+}

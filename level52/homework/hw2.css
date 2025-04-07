@@ -1,0 +1,16 @@
+.d1{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    position: fixed;
+    top: 20px;
+    left: 20px;
+}
+body{
+    height: 300vh;
+}
+
+h1{
+    text-align: center;
+    color: red;
+}

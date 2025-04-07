@@ -1,0 +1,15 @@
+.d1{
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+    position: relative;
+}
+
+.d2{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    position: absolute;
+    top: 40px;
+    left: 30px;
+}

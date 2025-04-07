@@ -1,0 +1,14 @@
+.d1{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+}
+
+.d2 {
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    position: static;
+    margin-top: 30px;
+    margin-right: 30px;
+}
