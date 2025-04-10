@@ -1,0 +1,64 @@
+body{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f2f2f2;
+}
+
+.fixsed-header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: #1d3557;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    z-index: 1000;
+}
+
+.static-section{
+    position: static;
+    padding: 100px 20px 20px;
+    background: red;
+    color: white;
+}
+
+.relative-section{
+    position: relative;
+    padding: 40px 20px;
+    background: black;
+    color: white;
+}
+
+.absolute-section-container{
+    position: relative;
+    padding: 40px 20px;
+    background: tomato;
+    color: black;
+    height: 200px;
+}
+
+.medal{
+    position: relative;
+    left: 20px;
+    top: 10px;
+    font-size: 40px;
+}
+
+.stats-goal{
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    background: green;
+    color: black;
+    padding: 15px;
+    border-radius: 30px;
+}
+
+footer{
+    padding: 50px;
+    background: blue;
+    color: black;
+    text-align: center;
+}
